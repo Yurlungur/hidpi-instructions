@@ -22,7 +22,7 @@ Source: http://askubuntu.com/questions/487032/adjust-firefox-and-thunderbird-to-
 ### Thunderbird
 
 * Go to`edit -> preferences -> advanced -> configuration editor`
-* set l`ayout.css.devPixelsPerPx` to 2.0
+* set `layout.css.devPixelsPerPx` to 2.0
 
 ### Systemwide fix
 
