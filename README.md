@@ -1,6 +1,6 @@
 #Instructions for hidpi on Ubuntu Linux
 
-Author: Jonah Miller <jonah.maxwell.miller@gmail.com>
+Author: Jonah Miller (<jonah.maxwell.miller@gmail.com>)
 
 ### For unity
 
@@ -49,7 +49,7 @@ NOTE THAT THIS LIKELY SCREWS UP EXTERNAL MONITORS
 * Java and other applications that don't scale... write a script to tell them what to do using the API.
 * see: http://askubuntu.com/questions/526484/fix-scaling-of-java-based-applications-for-a-high-dpi-screen
 
-### URXVT and XTERM
+### rxvt-unicode
 
 I use URXVT. You can change this to have reasonably sized fonts by using XFT fonts. Install these with
 ```bash
